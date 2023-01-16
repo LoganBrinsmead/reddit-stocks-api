@@ -1,6 +1,6 @@
 # Reddit Stocks API in Spring
 This is a REST API for my top mentioned reddit-stocks application written in Springboot and containerized using Docker.
-## Containzerize this API on your PC
+## Containerize this API on your PC
 It's very simple to containerize this API on your PC. With the following steps, I am making the assumption that Docker is already installed on your machine.
 1. Open a terminal/command line
 2. Navigate to the directory that contains your cloned reddit-stocks-api
